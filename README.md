@@ -1,0 +1,1 @@
+This project involves developing an Employee Management System using Java. The application utilizes MySQL for database connectivity, and the user interface is built using Java AWT and Swing components.
